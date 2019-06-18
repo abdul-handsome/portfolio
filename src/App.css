@@ -1,23 +1,85 @@
 
 .homePage {
   font-family: cursive;
-  font-size: x-large;
+  font-size: xx-large;
+  text-indent: 50px;
+  height: 10px;
 }
 
-
-.projectContainer {
+.projectContainer1 {
   display: flex;
-  background-color: lavender;
-  padding: 10px;
+  background-color: rgb(82, 150, 130);
+  border:1px solid black;
+  color: white;
 }
 
-
-.individualProject {
+.individualProject1_1 {
   flex: 1;
   text-align: center;
-  border-style: dotted;
   font-family: cursive;
+  font-size: 18px;
+  background-color: rgb(99, 132, 160);
 
+}
+
+.individualProject1_2 {
+  flex: 1;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  background-color: rgb(64, 88, 109);
+
+}
+
+
+.individualProject1_3 {
+  flex: 1;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  background-color: rgb(99, 142, 182);
+
+}
+
+.projectContainer2 {
+  display: flex;
+  background-color: rgb(82, 150, 130);
+  padding: 10px;
+  border-style: solid;
+  color: white;
+}
+
+
+.individualProject1 {
+  flex: 1;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  border-top-style:dotted;
+  border-bottom-style:dotted;
+  border-right-style:dotted;
+}
+
+
+.individualProject2 {
+  flex: 1;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  border-top-style:dotted;
+  border-bottom-style:dotted;
+  border-right-style:dotted;
+}
+
+
+.individualProject3 {
+  flex: 1;
+  text-align: center;
+  font-family: cursive;
+  font-size: 18px;
+  border-top-style:dotted;
+  border-bottom-style:dotted;
+  border-right-style:dotted;
 }
 
 
