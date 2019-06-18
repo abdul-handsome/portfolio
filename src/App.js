@@ -8,7 +8,7 @@ function App() {
     <h3 className = 'homePage'>Home</h3>
     <div className = 'projectContainer'>
     <div className = 'projectLabel'>My Projects :</div>
-    <div className = 'individualProject'>Soccer House</div>
+    <div className = 'individualProject'>Soccer Pot</div>
     <div className = 'individualProject'>Kodflix</div>
     <div className = 'individualProject'>yyyy yyyy yyyy</div>
     </div>
