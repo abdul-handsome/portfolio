@@ -9,7 +9,7 @@ function App() {
     <div className = 'projectContainer'>
     <div className = 'projectLabel'>My Projects :</div>
     <div className = 'individualProject'>Soccer House</div>
-    <div className = 'individualProject'>xxxx xxxx xxxx</div>
+    <div className = 'individualProject'>Kodflix</div>
     <div className = 'individualProject'>yyyy yyyy yyyy</div>
     </div>
     </div>
